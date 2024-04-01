@@ -17,6 +17,7 @@ So good they can't ignore you - Cal Newport
 The network state - Balaji Srinivasan
 Steve Jobs - Walter Isaacson
 Alan Turing, The Enigma - Andrew Hodges
+Fanged Noumena - Nick Land
 
 # Letti
 ## Zero to One: Notes on Startups, or How to Build the Future
