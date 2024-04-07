@@ -10,6 +10,7 @@
 
 # Da ottenere
 Early Retirement Extreme - Jacob Lund Fisker
+Your money or yout life - Vicky Robin
 
 # Ottenuti da leggere
 Industrial Society and Its Future - Ted Kaczynski
