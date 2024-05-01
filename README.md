@@ -19,8 +19,12 @@ The network state - Balaji Srinivasan
 Steve Jobs - Walter Isaacson
 Alan Turing, The Enigma - Andrew Hodges
 Fanged Noumena - Nick Land
+BLITZED, Drugs in the Third Reich - Norman Ohler
 
 # Letti
+## Steve Jobs
+Di Walter Isaacson, finito il 
+
 ## Zero to One: Notes on Startups, or How to Build the Future
 Di Peter Thiel, finito il 28/12/2023
 Questo libro è un insieme di consigli/note/fatti sulle startup e su come creare una startup di successo. Non li riporterò tutti qui perchè non me li ricordo neanche tutti e perchè tanto adesso non posso metterli in pratica: non ho alcuna startup da costruire. Mi è piaciuto lo stile di scrittura, ovvero T. propone un concetto e racconta molte storie vere di startup/compagnie che illustrano il concetto. Si capisce che le cose che dice non sono sparate alla cavolo ma sono il risultato di molta esperienza.
