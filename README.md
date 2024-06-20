@@ -22,6 +22,8 @@ Fanged Noumena - Nick Land
 BLITZED, Drugs in the Third Reich - Norman Ohler
 A New Kind of Science - Stephen Wolfram
 Kalman filter from the Ground Up - Alex Becker
+Origine della scienza - Louis Liebenberg
+La Scimmia Nuda - Desmond Morris
 
 # Letti
 ## Steve Jobs
