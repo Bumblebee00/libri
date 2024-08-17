@@ -13,21 +13,24 @@ Early Retirement Extreme - Jacob Lund Fisker
 Your money or yout life - Vicky Robin
 
 # Ottenuti da leggere
-Industrial Society and Its Future - Ted Kaczynski
 So good they can't ignore you - Cal Newport
 The network state - Balaji Srinivasan
-Steve Jobs - Walter Isaacson
-Alan Turing, The Enigma - Andrew Hodges
 Fanged Noumena - Nick Land
 BLITZED, Drugs in the Third Reich - Norman Ohler
 A New Kind of Science - Stephen Wolfram
-Kalman filter from the Ground Up - Alex Becker
-Origine della scienza - Louis Liebenberg
 La Scimmia Nuda - Desmond Morris
+The Kreutzer Sonata - Leo Tolstoy
+Thinking in Systems - Donella H. Meadows
+
+# In Lettura
+Origine della scienza - Louis Liebenberg
+Industrial Society and Its Future - Ted Kaczynski
+Alan Turing, The Enigma - Andrew Hodges
+Steve Jobs - Walter Isaacson
 
 # Letti
 ## Steve Jobs
-Di Walter Isaacson, finito il 
+Di Walter Isaacson, finito il 1/6/2024
 
 ## Zero to One: Notes on Startups, or How to Build the Future
 Di Peter Thiel, finito il 28/12/2023
