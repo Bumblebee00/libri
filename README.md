@@ -11,6 +11,8 @@
 # Da ottenere
 Early Retirement Extreme - Jacob Lund Fisker
 Your money or yout life - Vicky Robin
+The New Media Epidemic. The Undermining of Society, Family, and Our Own Soul - Jean-Claude Larchet
+
 
 # Ottenuti da leggere
 So good they can't ignore you - Cal Newport
