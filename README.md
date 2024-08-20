@@ -12,7 +12,7 @@
 Early Retirement Extreme - Jacob Lund Fisker
 Your money or yout life - Vicky Robin
 The New Media Epidemic. The Undermining of Society, Family, and Our Own Soul - Jean-Claude Larchet
-
+Insisting On the Impossible, The Life of Edwin Land - Victor K. McElheny
 
 # Ottenuti da leggere
 So good they can't ignore you - Cal Newport
@@ -21,10 +21,13 @@ Fanged Noumena - Nick Land
 BLITZED, Drugs in the Third Reich - Norman Ohler
 A New Kind of Science - Stephen Wolfram
 La Scimmia Nuda - Desmond Morris
-The Kreutzer Sonata - Leo Tolstoy
 Thinking in Systems - Donella H. Meadows
+Autobiography of a yogi - Paramhansa Yogananda
+Zen Mind - Shunryu Suzuki
+Elon Musk - Walter Isaacson
 
 # In Lettura
+The Kreutzer Sonata - Leo Tolstoy
 Origine della scienza - Louis Liebenberg
 Industrial Society and Its Future - Ted Kaczynski
 Alan Turing, The Enigma - Andrew Hodges
