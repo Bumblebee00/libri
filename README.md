@@ -20,20 +20,21 @@ The network state - Balaji Srinivasan
 Fanged Noumena - Nick Land
 BLITZED, Drugs in the Third Reich - Norman Ohler
 A New Kind of Science - Stephen Wolfram
-La Scimmia Nuda - Desmond Morris
 Thinking in Systems - Donella H. Meadows
 Autobiography of a yogi - Paramhansa Yogananda
 Zen Mind - Shunryu Suzuki
 Elon Musk - Walter Isaacson
 
 # In Lettura
-The Kreutzer Sonata - Leo Tolstoy
+La Scimmia Nuda - Desmond Morris
 Origine della scienza - Louis Liebenberg
 Industrial Society and Its Future - Ted Kaczynski
 Alan Turing, The Enigma - Andrew Hodges
-Steve Jobs - Walter Isaacson
 
 # Letti
+## The Kreutzer Sonata
+di Leo Tolstoy, finito il 22/08/2024
+
 ## Steve Jobs
 Di Walter Isaacson, finito il 1/6/2024
 
