@@ -24,6 +24,8 @@ Thinking in Systems - Donella H. Meadows
 Autobiography of a yogi - Paramhansa Yogananda
 Zen Mind - Shunryu Suzuki
 Elon Musk - Walter Isaacson
+Delitto e castigo - Fedor Dostoevskij
+The new confessions of an Economic Hitman - John Perkins
 
 # In Lettura
 La Scimmia Nuda - Desmond Morris
