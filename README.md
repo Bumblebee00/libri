@@ -1,11 +1,15 @@
 - [Da ottenere](#da-ottenere)
 - [Ottenuti da leggere](#ottenuti-da-leggere)
+- [In Lettura](#in-lettura)
 - [Letti](#letti)
-  - [Gödel, Escher, Bach: un’Eterna Ghirlanda Brillante](#gödel-escher-bach-uneterna-ghirlanda-brillante)
+  - [La Scimmia Nuda](#la-scimmia-nuda)
+  - [The Kreutzer Sonata](#the-kreutzer-sonata)
+  - [Steve Jobs](#steve-jobs)
   - [Zero to One: Notes on Startups, or How to Build the Future](#zero-to-one-notes-on-startups-or-how-to-build-the-future)
   - [Homo Deus - Breve storia del futuro](#homo-deus---breve-storia-del-futuro)
   - [The decipherment of linear B](#the-decipherment-of-linear-b)
   - [La scienza dell'impossibile](#la-scienza-dellimpossibile)
+  - [Gödel, Escher, Bach: un’Eterna Ghirlanda Brillante](#gödel-escher-bach-uneterna-ghirlanda-brillante)
 
 
 # Da ottenere
@@ -26,14 +30,20 @@ Zen Mind - Shunryu Suzuki
 Elon Musk - Walter Isaacson
 Delitto e castigo - Fedor Dostoevskij
 The new confessions of an Economic Hitman - John Perkins
+Chaos. Making a new science - James Gleick
+Dancing naked in the mind field - Kary Mullis
+The evolution of physiscs - Albert Einstein e Leopold Infeld
 
 # In Lettura
-La Scimmia Nuda - Desmond Morris
+Bel Ami - Guy de Maupassant
 Origine della scienza - Louis Liebenberg
 Industrial Society and Its Future - Ted Kaczynski
 Alan Turing, The Enigma - Andrew Hodges
 
 # Letti
+## La Scimmia Nuda
+Di Desmond Morris, finito il ???
+
 ## The Kreutzer Sonata
 di Leo Tolstoy, finito il 22/08/2024
 
