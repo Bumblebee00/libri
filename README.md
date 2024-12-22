@@ -20,32 +20,54 @@ Insisting On the Impossible, The Life of Edwin Land - Victor K. McElheny
 
 # Ottenuti da leggere
 So good they can't ignore you - Cal Newport
-The network state - Balaji Srinivasan
 Fanged Noumena - Nick Land
 BLITZED, Drugs in the Third Reich - Norman Ohler
 A New Kind of Science - Stephen Wolfram
 Thinking in Systems - Donella H. Meadows
 Autobiography of a yogi - Paramhansa Yogananda
 Zen Mind - Shunryu Suzuki
-Elon Musk - Walter Isaacson
-Delitto e castigo - Fedor Dostoevskij
 The new confessions of an Economic Hitman - John Perkins
 Chaos. Making a new science - James Gleick
 Dancing naked in the mind field - Kary Mullis
 The evolution of physiscs - Albert Einstein e Leopold Infeld
+Shoe Dog - Phil Knight
+My life and work - Henry Ford
 
 # In Lettura
-Bel Ami - Guy de Maupassant
-Origine della scienza - Louis Liebenberg
+The evolution of physiscs - Albert Einstein e Leopold Infeld
 Industrial Society and Its Future - Ted Kaczynski
-Alan Turing, The Enigma - Andrew Hodges
 
 # Letti
+## Elon Musk
+Di Walter Isaacson, finito il 10/12/2024
+Elon musk ha qualche problema mentale ed è dipendente dallo stress e dal rischio. Spesso fa decisioni impulsive rischiosissime che nessun'altro farebbe, ed è per questo che è dove nessun'altro è. Ho poi imparato l'algoritmo:
+1. Make Requirements Less Dumb
+2. Delete the Part or Process Step
+3. Optimize
+4. Accelerate
+5. Automate
+
+## Bel Ami
+Di Guy de Maupassant, finito il ???
+
+## Origine della scienza
+Di Louis Liebenberg, finito il ???
+Ci sono molte analogie tra il processo scientifico e la caccia.
+Mentre un cacciatore segue le tracce di un animale, è molto probabile che esse diventano poco visibili, magari perché cancellate dal vento o dalla pioggia o semplicemente assenti come su un terreno duro o una roccia. Allora il cacciatore deve sapere come si comporta di solito l'animale e ipotizzare quale strada abbia percorso e come si sia comportato. Una volta fatta questa ipotesi il cacciatore prosegue per quella strada cercando indizi che confermino la sua ipotesi, ciuffi di pelo, o impronte o cespugli piegati. Se il cacciatore non trova questi segni, allora capisce che la sua ipotesi era sbagliata, torna indietro e prova con un altra ipotesi.
+Analogamente uno scienziato segue il suo intuito e fa un ipotesi, poi prova a verificare l'ipotesi. Se l'ipotesi si rivela sbagliata riprova con un altra.
+Riassumendo, i domini fisici in cui agiscono scienziato e cacciatore sono diversi: laboratorio vs bosco/savana, impronte e segni nell'ambiente vs numeri, eccetra. I domini concettuali invece sono simili.
+
+## Alan Turing, The Enigma
+Di Andrew Hodges, finito il ???
+Era molto intelligente e schivo dell'autorità
+
 ## La Scimmia Nuda
 Di Desmond Morris, finito il ???
+I primati sono erbivori, vivono in gruppo sugli alberi, sono abituati a mangiare continuamente, la monogamia non è comune anzi spesso c'è un maschio dominante che si accoppia con tutte le femmine del gruppo. Nell'evoluzinoe da primati a umani, siamo scesi dagli alberi e ci siamo allontanati dai boschi, e abbiamo iniziato a cacciare. Cacciare richiede una collaborazione tra i vari individui, e perciò la gerarchia sociale di un maschio dominante e tutti gli altri oppressi non è stata più possibile. Ecco perché negli umani è comune la monogamia. Il motivo per cui andiamo in giro vestiti anche nelle occasioni in cui non servirebbe (come in estate) è per mascherare i nostri organi sessuali e frenare ogni impulso che porterebbe a violare la monogamia e farebbe scaturire il caos nella società.
 
 ## The Kreutzer Sonata
 di Leo Tolstoy, finito il 22/08/2024
+
 
 ## Steve Jobs
 Di Walter Isaacson, finito il 1/6/2024
@@ -55,7 +77,7 @@ Di Peter Thiel, finito il 28/12/2023
 Questo libro è un insieme di consigli/note/fatti sulle startup e su come creare una startup di successo. Non li riporterò tutti qui perchè non me li ricordo neanche tutti e perchè tanto adesso non posso metterli in pratica: non ho alcuna startup da costruire. Mi è piaciuto lo stile di scrittura, ovvero T. propone un concetto e racconta molte storie vere di startup/compagnie che illustrano il concetto. Si capisce che le cose che dice non sono sparate alla cavolo ma sono il risultato di molta esperienza.
 Una delle cose che ho capito da questo libro è che si fanno tanti profitti se si monopolizza un mercato (per esempio Google), mentre si fanno pochissimi profitti (tendenti a zero) se si è in competizione spietata con molti altri competitors (per esempio le compagnie aeere o i ristoranti). Un mercato in competizione spietata promuove l'efficienza, e questo è positivo, ma anche un monopolio ha degli aspetti positivi, perchè efficienza e inventare cose nuove sono due opposti. Qundi un monopolio si può permettere di sviluppare nuove tecnologie. Infatti T. dice che ogni nuova startup deve conquistare il monopolio in un piccolo mercato.<br>
 Un altra cosa che mi ha colpito è che T. parla spesso dello stereotipo del nerd, che d'istinto non si fida dei media, si veste sempre con jeans e Tshirt, è concentrato sulle questioni pratiche, sul risolvere i problemi ingegneristici, pensa che quelli di managment e sales non facciano nulla di utile e che un prodotto intrisicamente superiore non abbia bisogno di alcuna pubblicità e si venda da sè. Mi ritrovo un pò in questo stereotipo, e mi ha colpito non che T. ne parlasse, ma che dicesse che il nerd in realtà si sbaglia, in quanto distribuire e promuovere un prodotto è tanto importante quanto crearlo. Mentre i nerds lavorano su problemi tangibili, certo difficili ma anche tangibili, cioè dove è ovvio che hai fatto un buon lavoro o meno, quelli di buisness/marketing lavorano nell'ombra, più sono nell'ombra, più e velato il loro lavoro, e meglio hanno lavorato. Ha letteralmente chiamato Elon Musk (che pensavo fosse 100% nella categoria nerd) un "sales grandmaster", riferendosi a quando ha convinto la nasa a accettare un contratto della nascente SpaceX.
-Un altro concetto interesasne è il costo di aquisire un cliente (Customer Acquisition Cost (CAC)) e la quantità di soldi che ti darà un cliente, in tutta la sua vita (Customer Lifetime Value (CLV)). Se sei una ditta come Nike, ti puoi permettere un CAC molto basso (perchè deve essere meno del CVL che sarà nell' ordine delle centinaia di dollari), qundi pubblicità. Se sei una come SpaceX, i tuoi "prodotti" costano centinaia di milioni, e nel tuo CAC rientra il tempo personale del CEO che va a parlare con ogni singolo cliente. L'esmpio di PayPal è che dava 10$ ai nuovi iscritti (CAC = 10$) e in questo modo ha accumulato in pochissimo tempo una grande base di utenti.
+Un altro concetto interesasne è il costo di aquisire un cliente (Customer Acquisition Cost (CAC)) e la quantità di soldi che ti darà un cliente, in tutta la sua vita (Customer Lifetime Value (CLV)). Se sei una ditta come Nike, ti puoi permettere un CAC molto basso (perchè deve essere meno del CVL che sarà nell' ordine delle centinaia di dollari), qundi pubblicità. Se sei una come SpaceX, i tuoi "prodotti" costano centinaia di milioni, e nel tuo CAC rientra il tempo personale del CEO che va a parlare con ogni singolo cliente. L'esmpio di PayPal è che dava 10\$ ai nuovi iscritti (CAC = 10\$) e in questo modo ha accumulato in pochissimo tempo una grande base di utenti.
 Mi ha colpito la domanda che dice di fare a interviste di lavoro: "Qual'è una cosa che tutti sono convinti sia vera e invece non è vera?". Questo tipo di conoscenza lui la chiama segreto, e dice che ogni startup deve avere un segreto di questo tipo. Ovvero ogni startup deve poter dire: "Mentre tutti pensano che sia vero X, in realtà è vero l'opposto di X".
 Una startup decente ha un prodotto che è 10 volte migiore della competizione. Se ha questo + il monopolio su un piccolo mercato (con possibilità di espansione in più grandi mercati) + è concentrata anche sul distribuire i prodotti + ha un chiaro piano per i prossimi 20 anni, bè allora ha tutte le carte per avere successo.
 L'ultimo pezzo del libro parlava dei founder e di come siano particolarmente carismatici e "strani" cioè con una grande quantità di caratteristiche fuori dalla media. Da questo ultimo pezzo ho capito che devo costruire delle bombe.
