@@ -36,6 +36,8 @@ Dancing naked in the mind field - Kary Mullis
 The evolution of physiscs - Albert Einstein e Leopold Infeld
 Shoe Dog - Phil Knight
 My life and work - Henry Ford
+Alice in wonderland - Lewis Carroll
+Through the Looking Glass - Lewis Carroll
 
 # In Lettura
 Master and Margarita - Mikhail Bulgakov
