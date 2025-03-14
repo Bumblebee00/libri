@@ -38,12 +38,32 @@ Shoe Dog - Phil Knight
 My life and work - Henry Ford
 Alice in wonderland - Lewis Carroll
 Through the Looking Glass - Lewis Carroll
+just for fun - Linus Torvalds
+The vital question - Nick Lane
 
 # In Lettura
-Master and Margarita - Mikhail Bulgakov
-Industrial Society and Its Future - Ted Kaczynski
+
 
 # Letti
+
+## Industrial Society and Its Future
+di Ted Kaczynski, finito il 14/03/2025
+Ho trovato illuminante la parte del "processo del potere" e delle attività surrogate. Riassumendo dice che ogni persona ha un bisogno biologico di attraversare il processo del potere, un processo che consiste nel:
+- impostare obbiettivi
+- faticare nel provare a raggiungerli
+- riuscire a raggiungerli abbastanza spesso, non sempre e non mai
+- essere autonomi nella scelta degli obbiattivi
+
+> 44. But for most people it is through the power process—having a goal, making an AUTONOMOUS effort and attaining the goal—that self-esteem, self-confidence and a sense of power are acquired. When one does not have adequate opportunity to go through the power process the consequences are (depending on the individual and on the way the power process is disrupted) boredom, demoralization, low self-esteem, inferiority feelings, defeatism, depression, anxiety, guilt, frustration, hostility, spouse or child abuse, insatiable hedonism, abnormal sexual behavior, sleep disorders, eating disorders, etc. [6]
+
+E dice che nella società moderna, a differenza della vita primitiva, non ci sono abbastanza modi per attraversare questo processo. Di conseguenza le persone si dedicano a attività surrogate che  vengono perseguite solo per il gusto di ottenere un obbiettivo.
+
+> Thus it is not surprising that modern society is full of surrogate activities. These include scientific work, athletic achievement, humanitarian work, artistic and literary creation, climbing the corporate ladder, acquisition of money and material goods far beyond the point at which they cease to give any additional physical satisfaction, and social activism when it addresses issues that are not important for the activist personally, as in the case of white activists who work for the rights of nonwhite minorities.
+
+## Master and Margarita
+di Mikhail Bulgakov, finito il 12/03/2025
+libro con scene molto pazze, come streghe volanti su maiali, testa staccata e riattaccata a una persona, gatto parlante che salta su un tram, persone nude che escono dal teatro...
+
 ## BLITZED, Drugs in the Third Reich
 di Norman Ohler, finito il 07/01/2025
 Nella prima parte del libro descrive come le truppe naziste, ma anche i cittadini tedeschi, fossero alimentati da Pervitin, un farmaco contenente metanfetamina che riduceva stress, aumentava la concentrazione, riduceva il dolore e molto altro. Racconta di come durante il Blitzkrieg le truppe fossero in grado di andare avanti per giorni interi senza dormire o riposarsi. Poi racconta del medico personale di Hitler, Theodor Morell, e di come questi facesse iniezioni al dittatore contenenti vari miscugli di sostanze. Morell ha vissuto al fianco di Hitler per gli ultimi 10 anni della sua vita, e man mano che la guerra andava sempre peggio forniva a Hilter sonstanze sempre più potenti tramite pillole o iniezioni intravena: ha iniziato con semplici vitamine e glucosio per poi passare a antidolorifici e altro fino a arrivre a Eukodal (un oppioide) e cocaina. Egli operava in completa autonomia fori da ogni controllo e al di fuori della politica, Hitler stesso voleva che così fosse per avere una persona di cui fidarsi che non avesse interessi a ucciderlo. Morell usò la sua posizione privilegiata al di sopra delle regole per iniziare un commercio di pillole e medicine, realizzate dagli scarti animali prodotti un ukraina e nei territori del fronte est conquistato dalla germania. A leggere questo libro sembra che l'intera germania fosse una nazione di drogati e che Hitler fosse dipendente da decine di sostanze e fosse il più drogato di tutti.
